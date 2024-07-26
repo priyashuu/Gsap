@@ -54,6 +54,7 @@ z-index: 9;
 }
 img{
     height: 400px;
+    width:250px;
     position: absolute;
     top:12%;
     left:40%;
@@ -62,7 +63,7 @@ img{
     rotate: 20deg;
 }
 #img2{
-    rotate: 10deg;
+    rotate: 8deg;
 }
 p{
     text-align: center;
